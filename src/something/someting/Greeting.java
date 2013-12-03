@@ -1,4 +1,4 @@
-package com.test.greetingandroid;
+package something.somethingd;
 
 import android.app.Activity;
 import android.os.Bundle;
