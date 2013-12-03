@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Simple Android Application</string>
-    <string name="greeting">Congratulations! You have just created an Android Application with Codenvy! You should go check out The Oatmeal</string>
+    <string name="app_name">Beeblebrox</string>
+    <string name="greeting">Thanks for downloading this useless app created with Codenvy. Now that you have downloaded this you should go check out www.TheOatmeal.com because he is funny!</string>
 </resources>
